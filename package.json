@@ -1,0 +1,15 @@
+{
+  "name": "analiseQCM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "openai": "^4.0.0",
+    "puppeteer": "^22.13.1"
+  }
+}
